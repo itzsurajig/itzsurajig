@@ -2,6 +2,7 @@ Hi there 👋<br>
 Full Time FiveM Developer 💻<br>
 Graphic Designer 😉<br>
 Web Developer 📝 <br>
+Google Ads specialist🎟 <br>
 Social Media Handler 📱 <br>
 
 --------------------------------------------------------------------------------------
@@ -19,6 +20,11 @@ As a graphic designer and logo designer, I can create eye-catching designs that 
 --------------------------------------------------------------------------------------
 
 As a web developer and website designer, I have experience in creating responsive websites using HTML, CSS, and JavaScript. I can also create custom WordPress themes that are tailored to the client's needs.
+
+--------------------------------------------------------------------------------------
+
+I am a Google Ads specialist with years of experience in managing successful campaigns for clients from various industries.
+Whether you're looking to increase brand awareness, generate leads, or drive sales, I can provide you with the expertise and guidance needed to achieve your goals. Let's work together to take your online advertising efforts to the next level!
 
 --------------------------------------------------------------------------------------
 
