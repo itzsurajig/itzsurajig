@@ -23,11 +23,12 @@ As a web developer and website designer, I have experience in creating responsiv
 --------------------------------------------------------------------------------------
 
 As a social media handler, I can help businesses increase their online presence by creating engaging content, managing their social media profiles, and running paid ad campaigns.
+![instagram](https://user-images.githubusercontent.com/104319683/226214937-e317825a-50de-4d7c-a822-bd6efa8060bc.png)
 
 --------------------------------------------------------------------------------------
 
 Connect With Me 👇 <br>
-<i class="fa-brands fa-instagram"></i>(https://www.instagram.com/blaster.suraj/) <br>
+![instagram](https://user-images.githubusercontent.com/104319683/226214937-e317825a-50de-4d7c-a822-bd6efa8060bc.png)(https://www.instagram.com/blaster.suraj/) <br>
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
 [YouTube](https://www.youtube.com/@blastersuraj) <br>
