@@ -1,9 +1,10 @@
 ### Hi there 👋
 ### Full Time FiveM Developer 💻
 
-Social Media 👇
+Social Media 👇 <br>
 [Instagram](https://www.instagram.com/blaster.suraj/) <br>
-[Discord](https://discord.gg/HGzjtD846H)
+[Discord](https://discord.gg/HGzjtD846H) <br>
+[YouTube](https://www.youtube.com/@blastersuraj) <br>
 
 https://user-images.githubusercontent.com/104319683/226212258-f4dbfb35-4f38-47c1-89ba-076be8081946.mp4
 
