@@ -26,10 +26,10 @@ As a social media handler, I can help businesses increase their online presence 
 
 --------------------------------------------------------------------------------------
 
-Connect With Me 👇
+Connect With Me 👇 <br>
 ![instagram](https://user-images.githubusercontent.com/104319683/226215018-ae2fef0c-172a-44ac-b361-28c8846419af.png)
 ![discord](https://user-images.githubusercontent.com/104319683/226215092-80171aea-af56-4f34-84f3-30b5d9bf100c.png)
-![fiverr](https://user-images.githubusercontent.com/104319683/226215094-72a8222f-04bb-4203-90cd-728151ee646d.png)
+![fiverr (1)](https://user-images.githubusercontent.com/104319683/226215266-b65ac7c1-ddee-4f22-80bd-d7ce08b1d5e2.png)
 ![twitter](https://user-images.githubusercontent.com/104319683/226215095-2cd706bc-4934-4d2f-bc45-a266a5fa8fe9.png)
 ![youtube](https://user-images.githubusercontent.com/104319683/226215134-70243b83-49c0-437d-8c3d-b467853a8ab7.png)
 
@@ -38,7 +38,7 @@ Connect With Me 👇
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
 [YouTube](https://www.youtube.com/@blastersuraj) <br>
-[Twitter](https://twitter.com/BlasterSuraj)
+[Twitter](https://twitter.com/BlasterSuraj)<br>
 
 https://user-images.githubusercontent.com/104319683/226212258-f4dbfb35-4f38-47c1-89ba-076be8081946.mp4
 
