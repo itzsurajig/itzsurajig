@@ -1,6 +1,6 @@
-Hi there 👋
-Full Time FiveM Developer 💻
-Graphic Designer 😉
+<h1> Hi there 👋</h1> <br>
+<h1> Full Time FiveM Developer 💻</h1><br>
+<h1> Graphic Designer 😉</h1><br>
 
 Connect With Me 👇 <br>
 [Instagram](https://www.instagram.com/blaster.suraj/) <br>
