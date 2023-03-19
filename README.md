@@ -33,7 +33,6 @@ Connect With Me 👇 <br>
 ![twitter](https://user-images.githubusercontent.com/104319683/226215095-2cd706bc-4934-4d2f-bc45-a266a5fa8fe9.png)
 ![youtube](https://user-images.githubusercontent.com/104319683/226215134-70243b83-49c0-437d-8c3d-b467853a8ab7.png)
 
-<br>
 [Instagram](https://www.instagram.com/blaster.suraj/) <br>
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
