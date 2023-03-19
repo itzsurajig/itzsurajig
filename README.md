@@ -2,7 +2,7 @@ Hi there 👋<br>
 Full Time FiveM Developer 💻<br>
 Graphic Designer 😉<br>
 Web Developer 📝 <br>
-Social Media Handler <br>
+Social Media Handler 📱 <br>
 
 --------------------------------------------------------------------------------------
 
@@ -31,6 +31,7 @@ Connect With Me 👇 <br>
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
 [YouTube](https://www.youtube.com/@blastersuraj) <br>
+[Twitter](https://twitter.com/BlasterSuraj)
 
 https://user-images.githubusercontent.com/104319683/226212258-f4dbfb35-4f38-47c1-89ba-076be8081946.mp4
 
