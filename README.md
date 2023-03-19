@@ -26,7 +26,14 @@ As a social media handler, I can help businesses increase their online presence 
 
 --------------------------------------------------------------------------------------
 
-Connect With Me 👇 <br>
+Connect With Me 👇
+![instagram](https://user-images.githubusercontent.com/104319683/226215018-ae2fef0c-172a-44ac-b361-28c8846419af.png)
+![discord](https://user-images.githubusercontent.com/104319683/226215092-80171aea-af56-4f34-84f3-30b5d9bf100c.png)
+![fiverr](https://user-images.githubusercontent.com/104319683/226215094-72a8222f-04bb-4203-90cd-728151ee646d.png)
+![twitter](https://user-images.githubusercontent.com/104319683/226215095-2cd706bc-4934-4d2f-bc45-a266a5fa8fe9.png)
+![youtube](https://user-images.githubusercontent.com/104319683/226215134-70243b83-49c0-437d-8c3d-b467853a8ab7.png)
+
+<br>
 [Instagram](https://www.instagram.com/blaster.suraj/) <br>
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
