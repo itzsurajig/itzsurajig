@@ -27,7 +27,7 @@ As a social media handler, I can help businesses increase their online presence 
 --------------------------------------------------------------------------------------
 
 Connect With Me 👇 <br>
-[Instagram](https://www.instagram.com/blaster.suraj/) <br>
+[<i class="fa-brands fa-instagram"></i>](https://www.instagram.com/blaster.suraj/) <br>
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
 [YouTube](https://www.youtube.com/@blastersuraj) <br>
