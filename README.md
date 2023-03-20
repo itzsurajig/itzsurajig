@@ -42,7 +42,7 @@ Connect With Me 👇 <br>
 [Instagram](https://www.instagram.com/blaster.suraj/) <br>
 [Fiverr](https://www.fiverr.com/blastersuraj) <br>
 [Discord](https://discord.gg/HGzjtD846H) <br>
-[YouTube](https://www.youtube.com/@TryingToDev)) <br>
+[YouTube](https://www.youtube.com/@TryingToDev) <br>
 [Twitter](https://twitter.com/BlasterSuraj)<br>
 
 https://user-images.githubusercontent.com/104319683/226212258-f4dbfb35-4f38-47c1-89ba-076be8081946.mp4
