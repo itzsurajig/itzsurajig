@@ -32,18 +32,17 @@ As a social media handler, I can help businesses increase their online presence 
 
 --------------------------------------------------------------------------------------
 
-Connect With Me 👇 <br>
-![instagram](https://user-images.githubusercontent.com/104319683/226215018-ae2fef0c-172a-44ac-b361-28c8846419af.png)
-![discord](https://user-images.githubusercontent.com/104319683/226215092-80171aea-af56-4f34-84f3-30b5d9bf100c.png)
-![fiverr (1)](https://user-images.githubusercontent.com/104319683/226215266-b65ac7c1-ddee-4f22-80bd-d7ce08b1d5e2.png)
-![twitter](https://user-images.githubusercontent.com/104319683/226215095-2cd706bc-4934-4d2f-bc45-a266a5fa8fe9.png)
-![youtube](https://user-images.githubusercontent.com/104319683/226215134-70243b83-49c0-437d-8c3d-b467853a8ab7.png)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/blastersuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blastersuraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj-saraswat-593453227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-saraswat-593453227/" height="30" width="40" /></a>
+<a href="https://instagram.com/blaster.suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blaster.suraj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@tryingtodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tryingtodev" height="30" width="40" /></a>
+<a href="https://discord.gg/HGzjtD846H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HGzjtD846H" height="30" width="40" /></a>
+</p>
 
-[Instagram](https://www.instagram.com/blaster.suraj/) <br>
-[Fiverr](https://www.fiverr.com/blastersuraj) <br>
-[Discord](https://discord.gg/HGzjtD846H) <br>
-[YouTube](https://www.youtube.com/@TryingToDev) <br>
-[Twitter](https://twitter.com/BlasterSuraj)<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 https://user-images.githubusercontent.com/104319683/226212258-f4dbfb35-4f38-47c1-89ba-076be8081946.mp4
 
