@@ -39,6 +39,7 @@ As a social media handler, I can help businesses increase their online presence 
 <a href="https://instagram.com/blaster.suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blaster.suraj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@tryingtodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tryingtodev" height="30" width="40" /></a>
 <a href="https://discord.gg/HGzjtD846H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HGzjtD846H" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/blastersuraj" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/945026120414294047/1088538374098391041/fiverr_1.png" alt="HGzjtD846H" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
