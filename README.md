@@ -35,7 +35,6 @@ As a social media handler, I can help businesses increase their online presence 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blastersuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blastersuraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj-saraswat-593453227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-saraswat-593453227/" height="30" width="40" /></a>
 <a href="https://instagram.com/blaster.suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blaster.suraj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@tryingtodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tryingtodev" height="30" width="40" /></a>
 <a href="https://discord.gg/HGzjtD846H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HGzjtD846H" height="30" width="40" /></a>
