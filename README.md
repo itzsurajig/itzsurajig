@@ -5,8 +5,6 @@ Web Developer 📝 <br>
 Google Ads specialist🎟 <br>
 Social Media Handler 📱 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 --------------------------------------------------------------------------------------
 
 If you're looking for a reliable and skilled freelancer, look no further! I am committed to delivering high-quality work that exceeds my client's expectations. Contact me today to discuss your project requirements.
