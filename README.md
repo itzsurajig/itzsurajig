@@ -2,6 +2,9 @@
 Hi there 👋<br>Full Time FiveM Developer 💻<br>Discord Bot Developer 🧿<br>Graphic Designer 😉<br>Web Developer 📝<br>Google Ads specialist🎟<br>Social Media Handler 📱
 
 
+## Tebex Store :
+https://ef-productions.tebex.io/
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WbDp5GQ45t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/blaster.suraj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-saraswat-593453227/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitter.com/BlasterSuraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TryingToDev) 
 
@@ -21,8 +24,6 @@ Hi there 👋<br>Full Time FiveM Developer 💻<br>Discord Bot Developer 🧿<br
 ---
 [![](https://visitcount.itsvg.in/api?id=blastersuraj&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## Buy Me A Coffee😊
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://ef-productions.tebex.io/package/5636646) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1>Buy Me A Coffee ☺ </h1><br>
+https://ef-productions.tebex.io/package/5636646
