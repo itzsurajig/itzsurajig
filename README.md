@@ -21,7 +21,7 @@ https://ef-productions.tebex.io/
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=blastersuraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h1>Buy Me A Coffee ☺ </h1><br>
+<h1>Buy Me A Coffee ☺ 👇</h1><br>
 https://ef-productions.tebex.io/package/5636646
 <br>
 
