@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋<br>Full Time FiveM Developer 💻<br>Discord Bot Developer 🧿<br>Graphic Designer 😉<br>Web Developer 📝<br>Google Ads specialist🎟<br>Social Media Handler 📱
 
-########################
+
 
 ## 🛒 Tebex Store :
 https://ef-productions.tebex.io/
