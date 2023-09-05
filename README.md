@@ -24,3 +24,6 @@ https://ef-productions.tebex.io/
 https://ef-productions.tebex.io/package/5636646
 <br>
 
+<img src="https://raw.githubusercontent.com/blastersuraj/blastersuraj/output/snake.svg" alt="Snake animation" />
+
+###
