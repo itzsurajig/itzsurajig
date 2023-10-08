@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi there 👋<br>Full Time FiveM Developer 💻<br>Discord Bot Developer 🧿<br>Graphic Designer 😉<br>Web Developer 📝<br>Google Ads specialist🎟<br>Social Media Handler 📱
+
+```lua
+About Be = {
+Full Time FiveM Developer 💻
+Discord Bot Developer 🧿
+Graphic Designer 😉
+Web Developer 📝
+Social Media Handler 📱
+}
+```
+
 
 
 
