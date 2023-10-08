@@ -2,11 +2,11 @@
 
 ```lua
 About Be = {
-     💻:Full Time FiveM Developer,
-     🧿:Discord Bot Developer,
-     😉:Graphic Designer,
-     📝:Web Developer,
-     📱 :Social Media Handler,
+     💻:"Full Time FiveM Developer",
+     🧿:"Discord Bot Developer",
+     😉:"Graphic Designer",
+     📝:"Web Developer",
+     📱 :"Social Media Handler",
 }
 ```
 
