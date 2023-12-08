@@ -28,10 +28,9 @@ About Be = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
 <h1>
-     Buy Me A Coffee: 
-     https://ef-productions.tebex.io/package/5636646
+     
+[Buy Me A Coffee 😋](https://ef-productions.tebex.io/package/5636646)
+     
 </h1>
-<br>
 <br>
