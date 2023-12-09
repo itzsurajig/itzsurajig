@@ -3,7 +3,8 @@
 [![](https://visitcount.itsvg.in/api?id=blastersuraj&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
-![aboutmegithub](https://github.com/blastersuraj/blastersuraj/assets/104319683/0cabd21c-486b-4e04-ba6c-51f45f5818b9)
+![aboutme](https://github.com/blastersuraj/blastersuraj/assets/104319683/d2cc86f3-0167-4ef5-80fc-f1f34045f9fb)
+
 
 ```lua
 About Be = {
@@ -17,6 +18,9 @@ About Be = {
 <h1 align="center">
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=blastersuraj)  
+
+
+![tebex](https://github.com/blastersuraj/blastersuraj/assets/104319683/8b54bc03-9edf-40f0-95f8-2a10d183fc02)
 
 </h1>
 
