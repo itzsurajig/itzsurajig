@@ -1,4 +1,6 @@
-![githubhomepage](https://github.com/blastersuraj/blastersuraj/assets/104319683/f0cac944-ab40-4e57-8ab9-4c33cf7feb9b)
+<p align="center">
+  <img width="460" src="https://cdn.discordapp.com/attachments/945026120414294047/1183142759322898533/githubhomepage.png">
+</p>
 
 ```lua
 About Be = {
