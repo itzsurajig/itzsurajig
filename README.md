@@ -12,7 +12,6 @@ About Be = {
      🧿:"Discord Bot Developer",
      😉:"Graphic Designer",
      📝:"Web Developer",
-     📱 :"Social Media Handler",
 }
 ```
 <h1 align="center">
