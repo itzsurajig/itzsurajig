@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Hello%2C+Everyone+I'm+Suraj+Saraswat" alt="Typing SVG" /></a>
+
 ![githubhomepage](https://github.com/blastersuraj/blastersuraj/assets/104319683/f0cac944-ab40-4e57-8ab9-4c33cf7feb9b)
 
 [![](https://visitcount.itsvg.in/api?id=blastersuraj&icon=2&color=1)](https://visitcount.itsvg.in)
