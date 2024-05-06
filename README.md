@@ -42,7 +42,7 @@ About Be = {
 
 <h1 align="center">
      
-[Buy Me A Coffee 😋](https://ef-development.tebex.io/package/5636646)
+[Buy Me A Coffee 😋](https://buymeacoffee.com/blastersuraj)
      
 </h1>
 
