@@ -2,7 +2,7 @@
 
 ![githubhomepage](https://github.com/blastersuraj/blastersuraj/assets/104319683/f0cac944-ab40-4e57-8ab9-4c33cf7feb9b)
 
-[![](https://visitcount.itsvg.in/api?id=blastersuraj&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=itzsurajig&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 ![aboutme](https://github.com/blastersuraj/blastersuraj/assets/104319683/d2cc86f3-0167-4ef5-80fc-f1f34045f9fb)
