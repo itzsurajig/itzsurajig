@@ -17,7 +17,7 @@ About Be = {
 ```
 <h1 align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=blastersuraj)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=itzsurajig)  
 
 
 ![tebex](https://github.com/blastersuraj/blastersuraj/assets/104319683/8b54bc03-9edf-40f0-95f8-2a10d183fc02)
