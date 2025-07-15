@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Hello%2C+Everyone+I'm+Suraj+Saraswat" alt="Typing SVG" /></a>
 
+Dicord: https://discord.gg/qzsRX7sMjU
+
 ![githubhomepage](https://github.com/blastersuraj/blastersuraj/assets/104319683/f0cac944-ab40-4e57-8ab9-4c33cf7feb9b)
 
 
