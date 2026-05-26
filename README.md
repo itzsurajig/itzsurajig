@@ -41,12 +41,6 @@ About Be = {
 ![appreciation](https://github.com/blastersuraj/blastersuraj/assets/104319683/70d52e91-28d1-4260-a69e-07555b7db670)
 
 
-<h1 align="center">
-     
-[Buy Me A Coffee 😋](https://buymeacoffee.com/blastersuraj)
-     
-</h1>
-
 
 ![EF DEVELOPMENT](https://github.com/blastersuraj/blastersuraj/assets/104319683/73fa8721-7db1-4fb0-9185-eb3dfc5bfff4)
 
