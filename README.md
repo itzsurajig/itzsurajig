@@ -28,7 +28,7 @@ About Be = {
 
 <h1 align="center">
   
- [Tebex Store 🛒](https://projectfinals.com/)
+ [Tebex Store 🛒](https://projectfinals.live)
  
 </h1>
 
