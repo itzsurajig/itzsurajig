@@ -42,6 +42,7 @@ About Be = {
 
 
 
-![EF DEVELOPMENT](https://github.com/blastersuraj/blastersuraj/assets/104319683/73fa8721-7db1-4fb0-9185-eb3dfc5bfff4)
+<img width="1920" height="700" alt="offAWDAer" src="https://github.com/user-attachments/assets/c2588ae3-1e84-4684-a099-d9e7dbbcc6bf" />
+
 
 <br>
